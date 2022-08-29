@@ -1,1 +1,1 @@
-# yahooStockData
+# this script validates a list of tickers from an excel file for data availability on yahoo finance. The end result is a list of tickers that have data on yahoo. This would be used as a universe list when doing bulk data analysis with yahoo data.
